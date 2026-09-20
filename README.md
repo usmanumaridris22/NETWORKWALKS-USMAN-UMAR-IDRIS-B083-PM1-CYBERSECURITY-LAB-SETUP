@@ -4,7 +4,7 @@
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
-
+<p align="center">
   <img src="https://img.shields.io/badge/Usman%20Umar Idris%20CCIE-C00000?style=flat-square" />
 </p>
 
@@ -33,5 +33,23 @@ The main objectives of this project are to:
 - Take a clean VM snapshot for recovery.
 - Document the complete setup process.
 - Prepare the environment for future cybersecurity projects.
+
+---
+
+## 🛡️ Purpose of the Lab
+
+The lab provides an isolated and controlled environment for cybersecurity learning and authorized security testing.
+
+It can be used for activities such as:
+
+- Network reconnaissance
+- Port scanning
+- Vulnerability assessment
+- Packet analysis
+- Web security testing
+- Exploitation practice
+- Security-tool experimentation
+
+⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 ---
