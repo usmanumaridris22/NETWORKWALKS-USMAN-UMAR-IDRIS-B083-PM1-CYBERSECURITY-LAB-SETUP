@@ -1,2 +1,1 @@
-# NETWORKWALKS-USMAN-UMAR-IDRIS-B083-PM1-CYBERSECURITY-LAB-SETUP
-Cyber security lab setup 
+🔐 Cybersecurity Lab Environment Setup
