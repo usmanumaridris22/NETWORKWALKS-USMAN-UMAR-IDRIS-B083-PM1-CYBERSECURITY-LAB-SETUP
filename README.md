@@ -94,7 +94,9 @@ The current laboratory consists of:
 
 Additional target machines can be added to the same virtual network in future projects.
 
-## ⚙️ Lab Configuration
+---
+
+# ⚙️ Lab Configuration
 
 | 🧩 Component       | ⚙️ Configuration   |
 | ------------------ | ------------------ |
