@@ -6,10 +6,11 @@
 </div>
 <p align="center">
 
+<div align="center">
 <img src="https://img.shields.io/badge/%20BY-C00000?style=flat-square" /> <br>
   <img src="https://img.shields.io/badge/Usman%20Umar Idris%20Ethical Hacker-C00000?style=flat-square" />
 </p>
-
+</div>
 ---
 ## 📌 Project Overview
 
