@@ -66,6 +66,7 @@ It can be used for activities such as:
 >⚠️ **Important:** This laboratory must only be used for systems that you own or have explicit permission to test. Do not use the lab or its tools to attack unauthorized systems.
 
 ---
+
 ## 🏗️ Lab Architecture
 
 The current laboratory consists of:
@@ -95,7 +96,6 @@ Additional target machines can be added to the same virtual network in future pr
 
 ---
 
-
 ## ⚙️ Lab Configuration
 
 | 🧩 Component       | ⚙️ Configuration   |
@@ -115,7 +115,6 @@ Additional target machines can be added to the same virtual network in future pr
 
 
 The laboratory can be expanded later by adding additional virtual machines.
-
 For example:
 
                  VirtualBox
@@ -128,7 +127,6 @@ For example:
           └──────────┼──────────┘
                      │
               Virtual Network
-
 
 ---
 
