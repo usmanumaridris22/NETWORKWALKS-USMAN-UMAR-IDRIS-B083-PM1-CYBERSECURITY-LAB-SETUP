@@ -95,14 +95,15 @@ Additional target machines can be added to the same virtual network in future pr
 
 ---
 
+
 ## ⚙️ Lab Configuration
 
 | 🧩 Component       | ⚙️ Configuration   |
-| ------------------ | ------------------  |
+| ------------------ | ------------------ |
 | 🖥️ Host OS         | Windows 10         |
 | 🧠 Host RAM        | 8 GB               |
 | ⚡ Processor       | Intel Core i5      |
-| 🧰 Hypervisor      | VirtualBox 7.2  |
+| 🧰 Hypervisor      | VirtualBox 7.2     |
 | 🐉 Security OS     | Kali Linux 2026.2  |
 | 🧠 Kali RAM        | 2048 MB            |
 | 🌐 Virtual Network | NAT Network        |
@@ -113,7 +114,7 @@ Additional target machines can be added to the same virtual network in future pr
 | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
 
 
->The laboratory can be expanded later by adding additional virtual machines.
+The laboratory can be expanded later by adding additional virtual machines.
 
 For example:
 
