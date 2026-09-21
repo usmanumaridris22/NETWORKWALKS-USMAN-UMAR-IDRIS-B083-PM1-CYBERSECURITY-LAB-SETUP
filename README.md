@@ -1,18 +1,17 @@
-<div align="center">
 
 #🔐 Cybersecurity Home Lab — Kali Linux & VirtualBox
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
-<p align="center">
 
 ---
 
+<p align="center">
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Cybersecurity-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Lab-red?style=for-the-badge)
-
+</p>
 ---
 
 <div align="center">
