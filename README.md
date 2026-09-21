@@ -68,8 +68,6 @@ It can be used for activities such as:
 ---
 ## 🏗️ Lab Architecture
 
-# 🏗️ Lab Architecture
-
 The current laboratory consists of:
 
 ```text
