@@ -90,7 +90,7 @@ The current laboratory consists of:
 │          (Targets / Servers)                │
 │                                             │
 └─────────────────────────────────────────────┘
-
+```
 
 Additional target machines can be added to the same virtual network in future projects.
 
