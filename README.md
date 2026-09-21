@@ -120,34 +120,3 @@ Additional target machines can be added to the same virtual network in future pr
 
 7-Zip was installed to extract the Kali Linux virtual-machine package, which may be distributed as a `.7z` archive.
 
-
-
-
-
-# 📸 Lab Evidence
-
-## 1. VirtualBox Configuration
-
-<p align="center">
-  <img src="screenshots/01-virtualbox.png" width="800">
-  <br>
-  <em>Figure 1: Kali Linux virtual machine configured in Oracle VirtualBox.</em>
-</p>
-
-## 2. Kali Linux
-
-<p align="center">
-  <img src="screenshots/02-kali-linux.png" width="800">
-  <br>
-  <em>Figure 2: Kali Linux running successfully inside the virtual machine.</em>
-</p>
-
-## 3. Network Configuration
-
-<p align="center">
-  <img src="screenshots/04-network-settings.png" width="800">
-  <br>
-  <em>Figure 3: VirtualBox network configuration for the Kali Linux laboratory.</em>
-</p>
-
-
