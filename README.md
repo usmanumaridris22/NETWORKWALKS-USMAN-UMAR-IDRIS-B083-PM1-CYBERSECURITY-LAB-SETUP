@@ -1,10 +1,18 @@
 <div align="center">
 
-# 🔐 Cybersecurity Lab Environment Setup
+# 🔐 Cybersecurity Home Lab — Kali Linux & VirtualBox
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
 <p align="center">
+
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Cybersecurity-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Lab-red?style=for-the-badge)
+
+
 
 <div align="center">
 <img src="https://img.shields.io/badge/%20BY-C00000?style=flat-square" /> <br>
@@ -99,10 +107,6 @@ Additional target machines can be added to the same virtual network in future pr
 
 > A personal, isolated cybersecurity laboratory built with **Kali Linux** and **Oracle VirtualBox** for learning Linux, networking, system administration, and authorized security testing.
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Cybersecurity-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-Virtualization-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Lab-red?style=for-the-badge)
 
 ---
 
