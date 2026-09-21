@@ -332,7 +332,7 @@ This laboratory is intended strictly for education purposes only.
 **Usman Umar Idris**\
 Cybersecurity Professional B083
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: https://www.linkedin.com/in/usman-umar-idris-61b448430?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
