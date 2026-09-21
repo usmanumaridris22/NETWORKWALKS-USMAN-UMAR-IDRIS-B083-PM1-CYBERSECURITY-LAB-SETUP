@@ -2,7 +2,7 @@
 
 # 🔐 Cybersecurity Home Lab — Kali Linux & VirtualBox
 
-**Building an isolated virtual lab for penetration testing and ethical hacking practice**
+>**Building# an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
 <p align="center">
 
