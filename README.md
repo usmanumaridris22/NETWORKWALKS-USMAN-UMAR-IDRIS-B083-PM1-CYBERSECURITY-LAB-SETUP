@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🔐 Cybersecurity Home Lab — Kali Linux & VirtualBox
+#🔐 Cybersecurity Home Lab — Kali Linux & VirtualBox
 
 **Building an isolated virtual lab for penetration testing and ethical hacking practice**
 </div>
@@ -21,7 +21,7 @@
 </p>
 </div>
 ---
-## 📌 Project Overview
+# 📌 Project Overview
 
 This project focuses on setting up a **virtual cybersecurity and penetration-testing laboratory** using VirtualBox and Kali Linux.
 
