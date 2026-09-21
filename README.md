@@ -94,8 +94,6 @@ The current laboratory consists of:
 
 Additional target machines can be added to the same virtual network in future projects.
 
----
-
 ## ⚙️ Lab Configuration
 
 | 🧩 Component       | ⚙️ Configuration   |
@@ -112,7 +110,6 @@ Additional target machines can be added to the same virtual network in future pr
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 8.8.8.8            |
 | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
-
 
 The laboratory can be expanded later by adding additional virtual machines.
 For example:
