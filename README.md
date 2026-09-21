@@ -68,7 +68,29 @@ It can be used for activities such as:
 ---
 ## 🏗️ Lab Architecture
 
-![](1-screenshot-title-image.png)
+# 🏗️ Lab Architecture
+
+The current laboratory consists of:
+
+```text
+┌─────────────────────────────────────────────┐
+│              HOST COMPUTER                  │
+│                                             │
+│                Windows OS                   │
+│                     │                       │
+│              Oracle VirtualBox              │
+│                     │                       │
+│              ┌──────▼──────┐                │
+│              │ Kali Linux  │                │
+│              │     VM      │                │
+│              └──────┬──────┘                │
+│                     │                       │
+│              Virtual Network                │
+│                     │                       │
+│          Future Lab Machines                │
+│          (Targets / Servers)                │
+│                                             │
+└─────────────────────────────────────────────┘
 
 
 Additional target machines can be added to the same virtual network in future projects.
@@ -102,75 +124,3 @@ Additional target machines can be added to the same virtual network in future pr
 
 
 
-
-
-
-# 🔐 Cybersecurity Home Lab — Kali Linux & VirtualBox
-
-> A personal, isolated cybersecurity laboratory built with **Kali Linux** and **Oracle VirtualBox** for learning Linux, networking, system administration, and authorized security testing.
-
-
----
-
-## 📌 Project Overview
-
-This project documents the setup of a personal cybersecurity laboratory using **Kali Linux** running inside **Oracle VirtualBox**.
-
-The purpose of the lab is to provide a controlled environment where I can safely learn and practice cybersecurity concepts without affecting real-world systems.
-
-The laboratory will serve as a foundation for future practical work involving:
-
-- 🐧 Linux administration
-- 🌐 Networking
-- 🔎 Network reconnaissance
-- 🛡️ Security testing
-- 🔐 Cybersecurity tools
-- 📡 Network analysis
-- 🧪 Security experimentation
-- 💻 Virtualization
-- 📚 Hands-on cybersecurity learning
-
-> **Important:** All security testing performed in this laboratory is intended for systems that I own or have explicit permission to test.
-
----
-
-# 🎯 Objectives
-
-The main objectives of this project are to:
-
-- Set up Oracle VirtualBox as the virtualization platform.
-- Install and configure Kali Linux as a virtual machine.
-- Understand the relationship between the host OS and guest OS.
-- Configure the Kali Linux virtual machine.
-- Understand virtual networking.
-- Test network connectivity from Kali Linux.
-- Learn basic Linux commands and administration.
-- Create snapshots for safe experimentation and recovery.
-- Build a foundation for future cybersecurity labs.
-- Document the setup and troubleshooting process.
-
----
-
-# 🏗️ Lab Architecture
-
-The current laboratory consists of:
-
-```text
-┌─────────────────────────────────────────────┐
-│              HOST COMPUTER                  │
-│                                             │
-│                Windows OS                   │
-│                     │                       │
-│              Oracle VirtualBox              │
-│                     │                       │
-│              ┌──────▼──────┐                │
-│              │ Kali Linux  │                │
-│              │     VM      │                │
-│              └──────┬──────┘                │
-│                     │                       │
-│              Virtual Network                │
-│                     │                       │
-│          Future Lab Machines                │
-│          (Targets / Servers)                │
-│                                             │
-└─────────────────────────────────────────────┘
