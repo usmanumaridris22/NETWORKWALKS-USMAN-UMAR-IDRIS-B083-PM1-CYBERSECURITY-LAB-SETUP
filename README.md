@@ -101,7 +101,7 @@ Additional target machines can be added to the same virtual network in future pr
 | ------------------ | ------------------  |
 | 🖥️ Host OS         | Windows 10         |
 | 🧠 Host RAM        | 8 GB               |
-| ⚡ Processor       | Intel Core i7      |
+| ⚡ Processor       | Intel Core i5      |
 | 🧰 Hypervisor      | VirtualBox 7.2  |
 | 🐉 Security OS     | Kali Linux 2026.2  |
 | 🧠 Kali RAM        | 2048 MB            |
@@ -111,6 +111,23 @@ Additional target machines can be added to the same virtual network in future pr
 | 🚪 Default Gateway | 10.0.0.1           |
 | 🌍 DNS Server      | 8.8.8.8            |
 | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
+
+
+>The laboratory can be expanded later by adding additional virtual machines.
+
+For example:
+
+                 VirtualBox
+                     │
+          ┌──────────┼──────────┐
+          │          │          │
+       Kali VM    Target VM   Server VM
+      (Security)   (Lab)       (Lab)
+          │          │          │
+          └──────────┼──────────┘
+                     │
+              Virtual Network
+
 
 ---
 
