@@ -82,7 +82,7 @@ The current laboratory consists of:
 │              ┌──────▼──────┐                │
 │              │ Kali Linux  │                │
 │              │     VM      │                │
-│              └──────┬──────┘                │
+│              └──────┬──────┘             │
 │                     │                       │
 │              Virtual Network                │
 │                     │                       │
@@ -92,7 +92,19 @@ The current laboratory consists of:
 └─────────────────────────────────────────────┘
 ```
 
-Additional target machines can be added to the same virtual network in future projects.
+The laboratory can be expanded later by adding additional virtual machines.
+For example:
+
+                 VirtualBox
+                     │
+          ┌──────────┼──────────┐
+          │          │          │
+       Kali VM    Target VM   Server VM
+      (Security)   (Lab)       (Lab)
+          │          │          │
+          └──────────┼──────────┘
+                     │
+              Virtual Network
 
 ---
 
