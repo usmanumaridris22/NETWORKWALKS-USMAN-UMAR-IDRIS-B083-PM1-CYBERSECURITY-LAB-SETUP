@@ -326,3 +326,16 @@ This laboratory is intended strictly for education purposes only.
 - **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
 
 ---
+
+# 👤 Author
+
+**Usman Umar Idris**\
+Cybersecurity Professional B083
+
+LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+
+---
+
+## 📌 Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
